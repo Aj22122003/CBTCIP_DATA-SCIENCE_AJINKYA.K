@@ -1,8 +1,5 @@
 # 🔬 CBT CIP Data Science Projects 📊
 
-[![Forks](https://img.shields.io/github/forks/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K?style=social)](https://github.com/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K)
-[![Stars](https://img.shields.io/github/stars/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K?style=social)](https://github.com/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K)
-
 **👋 Welcome!**
 
 This repository contains a collection of Data Science projects developed as part of the CBT CIP (likely a curriculum or program). Explore the diverse range of analyses and insights within these projects! 🚀
