@@ -1,8 +1,5 @@
 # 🔬 CBT CIP Data Science Projects 📊
 
-[![License](https://img.shields.io/github/license/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K)](https://github.com/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K)](https://github.com/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K/issues)
 [![Forks](https://img.shields.io/github/forks/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K?style=social)](https://github.com/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K)
 [![Stars](https://img.shields.io/github/stars/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K?style=social)](https://github.com/AJ22122003/CBT_CIP-DATA_SCIENCE_AJINKYA.K)
 
